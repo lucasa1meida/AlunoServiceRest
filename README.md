@@ -1,5 +1,6 @@
 # AlunoServiceRest
 ### Tecnologias Usadas:
+- Java
 - JSON
 - Crud
 - MySQL
@@ -19,6 +20,9 @@ Alunos cadastrados via postman:
 
 Cadastrando um aluno reprovado:
 <img src="https://i.imgur.com/eeWyv3w.jpg">
+
+Buscando um aluno pelo codigo(findById):
+<img src="https://i.imgur.com/SzBju2T.jpg">
 
 <br/>
 **Agradecimentos** à Edson Belem da COTI Informática.
