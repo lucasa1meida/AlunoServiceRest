@@ -6,7 +6,7 @@
 - Serializable
 - PostMan
 
-**Projeto para adicionar alunos e gerar automaticamente a média e a situação podendo ser consumido pelo Service. Utilizei o POSTMAN como exemplo para consumir o aplicativo.
+**Projeto para adicionar alunos e gerar automaticamente a média e a situação podendo ser consumido pelo Service. Utilizei o POSTMAN como exemplo para consumir o aplicativo.**
 
 Antes de consumir pelo postman, um aluno foi criado pelo banco de dados MySQL:
 <img src="https://i.imgur.com/yndobbA.jpg">
