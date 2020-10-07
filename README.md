@@ -21,4 +21,4 @@ Cadastrando um aluno reprovado:
 <img src="https://i.imgur.com/eeWyv3w.jpg">
 
 <br/>
-> **Agradecimentos** à Edson Belem da COTI Informática.
+**Agradecimentos** à Edson Belem da COTI Informática.
